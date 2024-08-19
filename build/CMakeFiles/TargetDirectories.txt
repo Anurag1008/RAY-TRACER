@@ -1,0 +1,3 @@
+/home/anurag/Downloads/project/build/CMakeFiles/ray-tracer.dir
+/home/anurag/Downloads/project/build/CMakeFiles/edit_cache.dir
+/home/anurag/Downloads/project/build/CMakeFiles/rebuild_cache.dir

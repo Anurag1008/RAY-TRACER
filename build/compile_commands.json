@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/anurag/Downloads/project/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/ray-tracer.dir/main.cc.o -c /home/anurag/Downloads/project/main.cc",
+  "file": "/home/anurag/Downloads/project/main.cc",
+  "output": "CMakeFiles/ray-tracer.dir/main.cc.o"
+}
+]
